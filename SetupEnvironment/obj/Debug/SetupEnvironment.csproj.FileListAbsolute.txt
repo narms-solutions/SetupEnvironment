@@ -1,0 +1,10 @@
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe.config
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.csprojResolveAssemblyReference.cache
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.pdb
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.dll
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.dll
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.xml
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.xml
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.exe
+C:\Users\narms\Desktop\SetupEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.pdb
